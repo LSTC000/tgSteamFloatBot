@@ -1,0 +1,22 @@
+__all__ = [
+    'STEAM_HEADERS',
+    'BUFF_HEADERS',
+    'BUFF_COOKIES',
+    'BUFF_SLEEP_TIME',
+    'STEAM_SLEEP_TIME',
+    'PROXIES',
+    'PROXY_LOGIN',
+    'PROXY_PASSWORD'
+]
+
+
+from .parsers_config import (
+    STEAM_HEADERS,
+    BUFF_HEADERS,
+    BUFF_COOKIES,
+    BUFF_SLEEP_TIME,
+    STEAM_SLEEP_TIME,
+    PROXIES,
+    PROXY_LOGIN,
+    PROXY_PASSWORD
+)

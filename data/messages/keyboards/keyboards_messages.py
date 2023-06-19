@@ -1,0 +1,7 @@
+CHANGE_PRICE_THRESHOLD_IKB_MESSAGE = '💴 Изменить ценовой порог'
+CHANGE_BUFF_PERCENT_THRESHOLD_IKB_MESSAGE = '% Изменить пороговый процент для BUFF'
+CHANGE_STEAM_PERCENT_THRESHOLD_IKB_MESSAGE = '% Изменить пороговый процент для Steam'
+CHANGE_STEAM_RESAMPLE_IKB_MESSAGE = '📅 Изменить количество дней для Steam'
+CHANGE_BUFF_PROXY_IKB_MESSAGE = '🌐 Изменить прокси для BUFF'
+CHANGE_STEAM_PROXY_IKB_MESSAGE = '🌐 Изменить прокси для Steam'
+CLOSE_CHANGE_SETTINGS_IKB_MESSAGE = '❌ Закрыть настройки'

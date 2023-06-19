@@ -1,0 +1,7 @@
+CHANGE_PRICE_THRESHOLD_DATA = 'change_price_threshold'
+CHANGE_BUFF_PERCENT_THRESHOLD_DATA = 'change_buff_percent_threshold'
+CHANGE_STEAM_PERCENT_THRESHOLD_DATA = 'change_steam_percent_threshold'
+CHANGE_STEAM_RESAMPLE_DATA = 'change_steam_resample'
+CHANGE_BUFF_PROXY_DATA = 'change_buff_proxy'
+CHANGE_STEAM_PROXY_DATA = 'change_steam_proxy'
+CLOSE_CHANGE_SETTINGS_DATA = 'close_change_settings'
